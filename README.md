@@ -6,13 +6,13 @@ Este é um miniframework simples em PHP baseado no padrão de arquitetura MVC (M
 ## Estrutura de Diretórios
 ```bash
 miniframework/
-|-- app/
-|   |-- controllers/
+|-- App/
+|   |-- Controllers/
 |   |   |-- IndexController.php
-|   |-- models/
+|   |-- Models/
 |   |   |-- Info.php
 |   |   |-- Produto.php
-|   |-- views/
+|   |-- Views/
 |   |   |-- index/
 |   |   |   |-- index.php
 |   |   |   |-- sobreNos.php
